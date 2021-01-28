@@ -1,0 +1,5 @@
+main: obbyequipped.ranboohands.Main
+name: ranboohands
+version: 1.0
+author: ObbyEquipped
+api-version: 1.16
